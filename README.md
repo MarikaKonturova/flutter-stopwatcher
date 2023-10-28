@@ -1,4 +1,4 @@
-# calculator
+# Stopwatcher
 
 A new Flutter project.
 
